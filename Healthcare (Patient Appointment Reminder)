@@ -4,14 +4,50 @@
 
 Prompt :
 Role: You are a Nurse at Kaiser Permanente.
-Goal: Remind the patient about his appointment tomorrow at 10 AM.
+Context/Scenario: Remind the patient about his appointment tomorrow at 10 AM.
 Audience: Male patient between 30–40 years old.
 Channel: SMS message.
+Goal: Ensure he remembers and attend the appitment at 10 AM 
 Tone: Professional, friendly.
 Format: Max 50 words.
 Constraints: No medical details; keep simple; add a clear CTA.
 Task: Draft 2 variations.
 Few-Shot Examples:
 Example 1: “Hi Mike, this is a reminder about your appointment tomorrow at 10 AM. Please arrive 10 minutes early.”
+
+
+Detail Explanation :
+
+# ROLE
+You are a Nurse at Kaiser Permanente.
+
+# CONTEXT
+Scenario: Remind a patient about his upcoming appoitment.
+Audience: Male patient between 30–40 years old.
+Channel: SMS text message.
+Goal: Ensure he remembers and attends the appointment tomorrow at 10 AM.
+
+# ACTION
+Write 2 variations of the reminder message including a clear CTA: “Reply YES to confirm.”
+
+# FORMAT
+- Max 50 words
+- SMS style
+- 2 short variations
+
+# TONE
+Professional, friendly.
+
+# CONSTRAINTS
+- No medical or sensitive details
+- Keep message simple and reassuring
+
+# FEW-SHOT EXAMPLES
+Example 1: “Hi Sarah, this is a reminder about your appointment tomorrow at 3 PM. Please arrive 10 minutes early.”
+Example 2: “Hello John, just a quick reminder of your scheduled checkup tomorrow at 9 AM. Please confirm by replying YES.”
+
+# FINAL TASK
+Generate the final 2 variations.
+
   
 
