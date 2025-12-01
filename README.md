@@ -61,7 +61,7 @@ I will use all together based on the scenarios I am covering in this repository
 
 # Reusable Prompt Template for any scenario: 
 - Role: 
-- Goal/Context: 
+- Context: 
 - Clarity : 
 - Action: 
 - Audience:  
