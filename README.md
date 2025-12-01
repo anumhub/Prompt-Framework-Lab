@@ -44,15 +44,17 @@ These frameworks helps us:
 I will use all together based on the scenarios I am covering in this repository
 
 # Prompt Template Used:
-- Role: 
-- Goal/Context and Clarity: 
-- Audience: 
-- Channel: 
-- Tone: 
-- Format:
-- Reason: 
-- Constraints: 
-- Task/Execution: 
-- Few-Shot Examples/Keywords:
+- Role: You are “ “
+- Goal/Context: Purpose of communication
+- Context: Add industry/scenario/background Info
+- Clarity : Simple , plain English, remove unnecessary details
+- Action: Your task ( Add 2 Variations)
+- Audience: Who is receiving this message 
+- Channel: SMS/ Email/ Notification/ Social Post ( LinkedIn, Instagram, Youtube, Telegram, Whatup)
+- Tone: professional, friendly, conversational, encouraging, action oriented , playful, calm, inspirational
+- CTA ( Call To Action) : what should the user do next 
+- Constraints: word limit , no sensitive info, add input and output format with examples 
+- Creativity: Natural , Human Tone
+- Few-Shot Examples(short):
 -- Example 1: 
 -- Example 2:
