@@ -42,3 +42,17 @@ These frameworks helps us:
 - how to generate consistent outputs
 
 I will use all together based on the scenarios I am covering in this repository
+
+# Prompt Template Used:
+- Role: 
+- Goal/Context and Clarity: 
+- Audience: 
+- Channel: 
+- Tone: 
+- Format:
+- Reason: 
+- Constraints: 
+- Task/Execution: 
+- Few-Shot Examples/Keywords:
+-- Example 1: 
+-- Example 2:
