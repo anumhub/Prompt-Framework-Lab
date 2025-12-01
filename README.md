@@ -43,7 +43,7 @@ These frameworks helps us:
 
 I will use all together based on the scenarios I am covering in this repository
 
-# Prompt Template Used:
+# Prompt Used covering all framework( some are optional):
 - Role: You are “ “
 - Goal/Context: Purpose of communication
 - Context: Add industry/scenario/background Info
@@ -58,3 +58,17 @@ I will use all together based on the scenarios I am covering in this repository
 - Few-Shot Examples(short):
 -- Example 1: 
 -- Example 2:
+
+# Reusable Prompt Template for any scenario: 
+- Role: 
+- Goal/Context: 
+- Clarity : 
+- Action: 
+- Audience:  
+- Channel: 
+- Tone: 
+- CTA : 
+- Constraints:  
+- Creativity: 
+- Few-Shot Examples:
+
