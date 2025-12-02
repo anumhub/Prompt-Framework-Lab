@@ -70,5 +70,5 @@ I will use all together based on the scenarios I am covering in this repository
 - Constraints:  
 - Creativity: 
 - Few-Shot Examples:
-- CTA
+- CTA :
 
