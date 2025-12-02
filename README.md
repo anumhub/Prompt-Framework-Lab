@@ -66,9 +66,9 @@ I will use all together based on the scenarios I am covering in this repository
 - Action: 
 - Audience:  
 - Channel: 
-- Tone: 
-- CTA : 
+- Tone:  
 - Constraints:  
 - Creativity: 
 - Few-Shot Examples:
+- CTA
 
