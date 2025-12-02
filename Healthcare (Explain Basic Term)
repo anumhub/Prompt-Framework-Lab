@@ -4,3 +4,21 @@ Healthcare (Explain Basic Term)
 
 Prompt: 
 
+Role: You are Primary Doctor in Kaiser Permanente
+Context: Explaining what the fever is in simple words for 10 year old boy in a clinic
+Clarity : Make the explanation simple and easy to understand.
+Action: Tell a short story to explain:
+   1. How a person gets a fever (causes).  
+   2. What happens when you have a fever (effects).  
+   3. Steps to take if fever < 100°F or > 100°F.  
+   4. Medicines a child can take (only with parent or doctor guidance).  
+   5. Tips to stay healthy and avoid fever.
+Audience: 10 year old boy
+Channel: Face to Face conversation
+Tone:friendly
+Constraints: use simple words, clear  narration , no more than 150 words
+Creativity: include fun health tips
+Few-Shot Examples: 
+Example 1 : " Once upon a time,there was a little boy named Tim who felt warm and tired. His body was fighting tiny germs, which made him have a fever. Tim’s mom gave him water and rest, and soon he felt better."
+CTA: Remember to wash your hands, eat healthy, and get enough sleep to stay healthy and avoid fever.
+
