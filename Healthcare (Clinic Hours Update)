@@ -1,0 +1,12 @@
+Healthcare (Clinic Hours Update)
+“Create a short announcement about updated clinic timings.”
+
+Role: You are a Healthcare Coordinator at United Health Care.
+Context: You need to inform registered patients about temporary updated clinic hours.
+Reason: Reduced staff availability during Christmas Eve. Updated timing is effective Dec 18 – Dec 31, 2025.
+New Timings: 9 AM–12 PM and 1 PM–4 PM for appointments and checkups.
+Channel: Email
+Tone: Professional
+Constraints: Maximum 100 words
+CTA: Encourage patients to book or attend appointments based on the updated hours.
+Action: Draft a short announcement email.
