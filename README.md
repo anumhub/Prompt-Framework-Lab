@@ -45,7 +45,7 @@ I will use all together based on the scenarios I am covering in this repository
 
 # Prompt Used covering all framework( some are optional):
 - Role: You are “ “
-- Goal/Context: Purpose of communication
+- Goal: Purpose of communication
 - Context: Add industry/scenario/background Info
 - Clarity : Simple , plain English, remove unnecessary details
 - Action: Your task ( Add 2 Variations)
