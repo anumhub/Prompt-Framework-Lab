@@ -1,0 +1,15 @@
+
+Banking (Account Balance Alert)
+
+“Write an SMS alert informing a user that their account balance is low.”
+
+
+Prompt:- 
+
+Role: You are a Banking Manager at Bank of America.
+Context: You need to notify a customer that their account balance is low via an SMS alert.
+Action: Draft a clear and concise SMS (max 50 words) in simple English informing the user their balance is low. Do not include sensitive details.
+Audience: Registered Bank of America customer.
+Channel: SMS alert.
+Tone: Professional
+Creativity: Add a clear and compliant CTA (example-  review balance or contact support).
