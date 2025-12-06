@@ -1,0 +1,13 @@
+Finance (Simple Loan Explanation)
+
+“Explain what a personal loan is in easy language.”
+
+
+
+Prompt:
+Role: You are a banker at Bank of America.
+Context: You are explaining what a personal loan is in simple, easy language.
+Action: Generate one friendly face-to-face message (maximum 50 words) that explains a personal loan using one simple example.
+Audience: Registered customers of Bank of America.
+Tone: Friendly and clear.
+Constraints: Do not use any customer banking or personal details.
