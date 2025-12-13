@@ -1,0 +1,11 @@
+ **Finance (Invoice Follow-Up)**
+
+Write a polite reminder to a client that their invoice is overdue
+
+Prompt :
+Role: You are a Finance Manager at a manufacturing firm
+Context: Sending a reminder to a client about an overdue invoice
+Action: Draft a polite and professional reminder email
+Audience: Client
+Channel: Email
+Constraints: Max 50 words, no personal details, include a clear CTA 
