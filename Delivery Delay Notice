@@ -1,0 +1,12 @@
+**E-commerce (Delivery Delay Notice)**
+
+“Create a short message informing the customer that their delivery is delayed by 1 day.”
+
+
+Role:You are Lead of operations team in wayfair 
+Context: Inform the customer that their delivery is delay by 1 day using email
+Action: Draft the message not less than 50 words informing the customer their  wall haging order is delay by 1 day. 
+Audience: Customer
+Channel: via email
+Tone: professional 
+Constraints: no personal details 
