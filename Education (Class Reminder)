@@ -1,0 +1,12 @@
+## **Education (Class Reminder)**
+
+“Write a reminder for students about tomorrow’s online class.”
+
+Role: You are a science teacher at a private school.
+Context: You need to remind 6th grade students about tomorrow’s mandatory online science class.
+Action: Write a friendly email reminder (maximum 50 words) informing students that the class will be held tomorrow from 1 PM to 2 PM.
+If students face any issues or cannot attend, they should email the reason to mikeo@gmail.com.
+Audience: 6th grade students
+Channel: Email
+Tone: Friendly and encouraging
+Constraints: Simple, age-appropriate language
