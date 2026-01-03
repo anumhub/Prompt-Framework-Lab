@@ -1,0 +1,16 @@
+## **E-commerce (Product Description – Simple)**
+
+“Create a simple product description for a reusable water bottle.”
+
+
+Prompt:
+
+Role: You are a product expert at Amazon.
+Context: Create a professional product description for a reusable water bottle to be displayed on an e-commerce website.
+Clarity: The description should include color options, size/capacity, material quality, quantity per pack, usability, key benefits, price (or price range), and basic usage precautions. 
+Describe the product clearly as if images are shown.
+Action: Draft a concise and engaging product description.
+Audience: Online customers.
+Channel: E-commerce website.
+Tone: Professional and customer-friendly.
+Constraints: Use simple language with a positive and trustworthy tone.
