@@ -1,0 +1,17 @@
+ **Software QA (Bug Report Summary)**
+
+“Write a simple explanation of a login page bug for a non-technical stakeholder.”
+
+Role: You are a QA Analyst in an IT company.
+Context: Explain a login page issue to non-technical stakeholders in a clear and simple way.
+Action: Write a Jira bug summary describing the login issue using easy-to-understand language.
+Guidelines:
+-When a user enters a valid username and password and clicks the “Login” button, an error message appears.
+-Include step-by-step steps to reproduce the issue.
+-Mention the browser and device/platform used (e.g., Chrome on desktop).
+-Specify when the issue occurs and how often it is reproducible.
+-Mention that technical logs/screenshots are attached for reference.
+Audience: Business stakeholders.
+Channel: Jira.
+Tone: Professional and clear.
+Constraints: Use simple, non-technical language.
